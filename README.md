@@ -30,15 +30,31 @@ A smart assistive mobility system that allows a wheelchair to be controlled wire
 smart-wheelchair/
 ├── code/
 │ └── smart_wheelchair.ino
-├── circuit/
-│ └── circuit_diagram.png
-├── images/
-│ └── wheelchair_prototype.jpg
-├── components/
-│ └── components_list.txt
+├── CAD
+│ └── Wheel chair Cad Video
+├── Circuit/
+│ └── circuit_diagram.jpeg
+├── Images/
+│ └── wheelchair_prototype.jpeg
+│ └── wheelchair_sketch.jpeg
+├── Components/
+| └── Bill_of_materials.png
+| └── Components_list.png
+| └── Components_functionality.jpeg
+│ └── Components_image.jpeg
+├── Working_videos/
+| └── First working success video of wheelchair.MP4
+│ └── Main video.MPA4
 └── README.md
 
 ```
+---
+## 🧩 CAD Model
+
+The smart wheelchair structure was designed using CAD software to model the mechanical framework and component placement.
+
+🔗 View the CAD Model:
+https://a360.co/3EUiIGC
 
 ## ⚙️ System Components
 
@@ -88,25 +104,33 @@ Example commands:
 5. Use a Bluetooth controller app to send movement commands
 
 ---
+## CHALLENGES FACED ⚠️
 
-## 🚀 Future Improvements
+- Gyro sensor malfunctioned during final stages.
+- Had to quickly adapt the system to smartphone-based control.
+- Faced Bluetooth pairing delays during testing
+- Power regulation issues for motor load.
 
-- Add voice control support
-- Implement obstacle detection using ultrasonic sensors
-- Integrate GPS tracking
-- Develop a dedicated mobile application
-- Add AI-based navigation assistance
 
+## 🚀 Future Scope
+
+- Add voice control for accessibility.
+- Implement obstacle detection using ultrasonic sensors.
+- Integrate GPS tracking.
+- Develop a dedicated mobile application.
+- Upgrade to gesture recognition using ML models.
+- Implement emergency auto-stop feature.
+  
 ---
 
 ## 👥 Project Team
 
 This project was developed as part of our academic project.
 
-| Name | Role |
-|-----|-----|
-| Sai Sushma | Hardware Integration & Testing |
-| Team Members | Circuit Design & Development |
+| Name | Role & Contribution |
+|-----|---------------------|
+| Sai Sushma | Hardware setup, circuit integration, component testing, and system implementation|
+| B.V.S Lahari () | Arduino programming, Bluetooth communication logic, and documentation |
 
 ---
 
