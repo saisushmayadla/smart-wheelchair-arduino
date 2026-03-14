@@ -26,7 +26,7 @@ A smart assistive mobility system that allows a wheelchair to be controlled wire
 ---
 
 ## 📁 Project Structure
----
+```
 smart-wheelchair/
 ├── code/
 │ └── smart_wheelchair.ino
@@ -38,7 +38,7 @@ smart-wheelchair/
 │ └── components_list.txt
 └── README.md
 
----
+```
 
 ## ⚙️ System Components
 
