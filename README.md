@@ -22,6 +22,8 @@ A smart assistive mobility system that allows a wheelchair to be controlled wire
 - DC Geared Motors
 - Embedded C / Arduino IDE
 - 12V Battery Power System
+  
+## APP USED: Arduino Bluetooth Control
 
 ---
 
@@ -130,7 +132,7 @@ This project was developed as part of our academic project.
 | Name | Role & Contribution |
 |-----|---------------------|
 | Sai Sushma | Hardware setup, circuit integration, component testing, and system implementation|
-| B.V.S Lahari () | Arduino programming, Bluetooth communication logic, and documentation |
+| B.V.S Lahari (https://github.com/bvslahari007) | Arduino programming, Bluetooth communication logic, and documentation |
 
 ---
 
