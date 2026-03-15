@@ -138,8 +138,13 @@ This project was developed as part of our academic project.
 
 ## 📜 License
 
-This project is developed for educational and research purposes.  
-Feel free to use and modify it for learning.
+License & Copyright
+All Rights Reserved
+© 2025 saisushmayadla
+
+This project and its source code are protected under copyright law.
+No part of this project may be copied, reproduced, modified, distributed, or used in any form without prior written permission from the authors.
+Unauthorized use is strictly prohibited.
 
 ---
 
